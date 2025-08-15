@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DISCO: Disk Instability Study for Couette Orbital Flows</title>
+    <style>
+        body { font-family: Arial; margin: 0; background: #f4f4f4; color: #333; }
+        header { background: #2c3e50; color: white; text-align: center; padding: 20px; }
+        section { padding: 20px; max-width: 800px; margin: auto; }
+        h2 { color: #2c3e50; }
+        footer { background: #2c3e50; color: white; text-align: center; padding: 10px; }
+    </style>
+</head>
+<body>
+    <header><h1>DISCO: Disk Instability Study</h1></header>
+    <section><h2>Summary</h2><p>Studies Taylor–Couette flow in microgravity using electromagnetic levitation.</p></section>
+    <section><h2>Progress</h2><p>Proposal submitted! Working on prototype.</p></section>
+    <section><h2>Outreach</h2><p>Follow updates here or contact us at example@email.com.</p></section>
+    <footer><p>&copy; 2025 DISCO Team | ESA REXUS</p></footer>
+</body>
+</html>
